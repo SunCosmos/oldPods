@@ -1,3 +1,3 @@
 <p>
-<img src="image/oldFods.png" alt="Sun_Cosmos" width="60" height="60">
+<img src="image/oldFods.png" width="60" height="60"> oldPods V3.0
 </p>
