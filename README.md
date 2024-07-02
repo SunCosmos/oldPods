@@ -8,3 +8,4 @@
 目前支持版本Android 4.0.3至Android 13
 
 > [!WARNING]
+> 在Android 13中在启动oldPods APP时 开启/关闭 系统级 亮色/暗色 模式 会出现卡顿或闪退情况。
