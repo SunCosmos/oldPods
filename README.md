@@ -25,4 +25,4 @@
 
 **app截图**
 
-<img src="image/1.jpg" width="180" height="360"> <img src="image/3.jpg" width="180" height="360"> <img src="image/2.jpg" width="180" height="360"><img src="image/4.jpg" width="180" height="360"><img src="image/5.jpg" width="180" height="360">
+<img src="image/1.jpg" width="180" height="360"> <img src="image/3.jpg" width="180" height="360"> <img src="image/2.jpg" width="180" height="360"><img src="image/4.jpg" width="180" height="360">
