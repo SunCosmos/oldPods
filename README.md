@@ -6,4 +6,5 @@
 专注于旧版应用的一款APP，分享轻应用
 
 目前支持版本Android 4.0.3至Android 13
-'Warning'
+
+> [!WARNING]
