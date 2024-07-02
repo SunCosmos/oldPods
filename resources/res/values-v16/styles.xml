@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.TextAppearance.MaterialComponents.Badge" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/mtrl_badge_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/colorOnError</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Base.TextAppearance.MaterialComponents.Button" parent="@style/TextAppearance.AppCompat.Button">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Base.TextAppearance.MaterialComponents.Headline6" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Base.TextAppearance.MaterialComponents.Subtitle2" parent="@style/TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Tooltip" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Body1" parent="@style/TextAppearance.AppCompat.Body2">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Body2" parent="@style/TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Caption" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline1" parent="@style/TextAppearance.AppCompat.Display4">
+        <item name="android:textSize">96sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline2" parent="@style/TextAppearance.AppCompat.Display3">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline3" parent="@style/TextAppearance.AppCompat.Display2">
+        <item name="android:textSize">48sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline4" parent="@style/TextAppearance.AppCompat.Display1">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline5" parent="@style/TextAppearance.AppCompat.Headline">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Overline" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.MaterialComponents.Subtitle1" parent="@style/TextAppearance.AppCompat.Subhead">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+</resources>

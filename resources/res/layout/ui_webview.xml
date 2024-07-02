@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ui_web_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/ui_webview_top"
+        android:background="#50c4e5"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="请稍后"
+        app:titleTextColor="@color/Hffffff"/>
+    <WebView
+        android:id="@+id/ui_web_wv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ui_webview_top"/>
+    <ImageView
+        android:id="@+id/ui_webview_imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:src="@mipmap/img_ing"
+        android:layout_alignBottom="@+id/ui_web_wv"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
