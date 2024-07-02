@@ -4,4 +4,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/suncosmos/oldpods)
 
 专注于旧版应用的一款APP，分享轻应用
-目前支持版本![GitHub language count](https://badgen.net/badge/Android/4.0.3)至![GitHub language count](https://badgen.net/badge/Android/13)
+
+目前支持版本Android 4.0.3至Android 13
+'Warning'
