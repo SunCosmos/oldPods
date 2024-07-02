@@ -22,3 +22,5 @@
 - 修复Android 14下载无法自动安装问题
 - 修复Android 5.1无法进入app/app闪退情况
 - 修复Android 4.3、4.2在app中无法点击链接情况
+
+<img src="image/1.png" width="200" height="60">
